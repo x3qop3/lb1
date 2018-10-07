@@ -3,9 +3,55 @@ body {
 }
 
 h1 {
-    color: white;
+    font-family: verdana;
+    font-size: 1em;
+    background-color: purple;
+    color: rgb(238, 105, 105);
     text-align: center;
+    
 }
+h2 {
+    font-family: Arial;
+    font-size: 1.5em;
+    background-color: rgb(12, 172, 52);
+    color: green;
+    text-align: left;
+    
+}
+h3 {
+    font-family: Georgia;
+    font-size: 1em;
+    background-color: rgb(240, 15, 15);
+    color: rgb(182, 157, 17);
+    text-align: center;
+    
+}
+h4 {
+    font-family: Times;
+    font-size: 2em;
+    background-color: rgb(26, 8, 58);
+    color: rgb(73, 60, 192);
+    text-align: right;
+    
+}
+h5 {
+    font-family: serif;
+    font-size: 1em;
+    background-color: rgba(119, 153, 38, 0.411);
+    color: rgb(247, 9, 187);
+    text-align: center;
+    
+}
+h6 {
+    font-family: verdana;
+    font-size: 1em;
+    background-color: rgb(136, 113, 14);
+    color: olive;
+    text-align: center;
+    
+}
+
+
 
 p {
     font-family: verdana;
