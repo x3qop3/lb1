@@ -95,3 +95,14 @@ img {
 <a href="soul.jpg">
   <img src="soul.jpg" alt="wsoul">
 </a>
+table {
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid red;
+}
+th {
+    background-color: #4CAF50;
+    color: white;
+}
